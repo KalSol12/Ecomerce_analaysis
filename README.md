@@ -1,6 +1,8 @@
 # 📊 E-Commerce Sales Analysis
 
-## 🔹 🔗 Download Dataset
+## name : kaleab Tenkir id 0668?13
+
+## 🔹 🔗 Download Dataset(otional) you can get the Dataset on Data folder
 
 📌 Due to GitHub's 100MB file limit, the dataset is stored on **Google Drive**.  
 🔗 **Download Cleaned Dataset:** [Click to Download](https://drive.google.com/file/d/1iBnf53xoU5E2LNkel-ENWYYx5XNUXJCH/view?usp=sharing)
@@ -23,7 +25,7 @@ It includes **data cleaning, ETL pipeline, interactive dashboards, and business 
 
 ## 🔹 Project Structure
 
-📂 `data/` → **Datasets** (Stored externally due to GitHub file size limits)  
+📂 `data/` → **Datasets** ( you can get on that file but zip file (optional):- Stored externally due to GitHub file size limitsor)
 📂 `powerbi/` → **Power BI dashboard file & reports**  
 📂 `scripts/` → **Python scripts for ETL processing**  
 📂 `docs/` → **Documentation, reports, and schema**
